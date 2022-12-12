@@ -1,2 +1,2 @@
-# 01_guitarbuilder
+# 3d-model-viewer
 Created with CodeSandbox
