@@ -1,7 +1,7 @@
 import React from "react";
 import { OBJModel } from "react-3d-viewer";
 import axios from "axios";
-import model from "../public/model/model.obj";
+import model from "./model/model.obj";
 
 export default class extends React.Component {
   render() {

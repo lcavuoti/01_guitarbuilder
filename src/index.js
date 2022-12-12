@@ -5,10 +5,9 @@ import Model from "./Model";
 
 import "./App.css";
 
-class App extends React.Component {
-  render() {
+function App() {
     return <Model />;
-  }
+
 }
 
 const rootElement = document.getElementById("root");
